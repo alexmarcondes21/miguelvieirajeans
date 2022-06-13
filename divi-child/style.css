@@ -1,0 +1,33 @@
+/*
+ Theme Name:     Divi Child
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    Divi Child Theme
+ Author:         HES - Sistemas de informação
+ Author URI:     https://www.hes.pt/
+ Template:       Divi
+ Version:        1.0.0
+*/
+ 
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+/* .et_header_style_left .logo_container {
+    max-width: 100%;
+} */
+
+.et_fixed_nav #main-header {
+    position: absolute;
+    height: 100px;
+}
+
+#chart-button  {    
+position:relative;
+}
+
+.upsideclearfix {
+    background-color: white;
+    width: 15%;
+    height: 5%;
+    position: absolute;
+    z-index: 1000;
+}
